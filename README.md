@@ -1,3 +1,9 @@
+This fork uses new gradle.build files and has an android build target - it plays really well on mobile! This is the only example available 
+that uses libktx [vis-ui extensions](https://github.com/libktx/ktx/tree/master/vis).
+
+I forked this so I can study the code and hopefully if anyone else is trying to build these and use them as examples the build will go 
+smoother with this version of the game.
+
 # East Games United game jam
 
 #### Do not let the partygoers disturb your sleep!
